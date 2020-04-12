@@ -1,20 +1,21 @@
 # Dependencies
-# markdown:         redcarpet
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            'Typo Project'
-tagline:          'Data Scientist'
-description:      'MSCS student at Rutgers, Data Scientist'
-url:              https://xitizzz.github.io/typo
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://typo.kshitijshah.net
 baseurl:          /
 
 author:
-  name:           'Kshitij '
-  url:            https://twitter.com/xitizzz
+  name:           'Kshitij Shah'
+  url:            https://kshitijshah.net/mdo
 
 paginate:         5
 
@@ -22,6 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://xitizzz.github.io/typo
-
-
+  repo:           https://github.com/xitizzz/typo
