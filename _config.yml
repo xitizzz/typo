@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Kshitij Shah'
 tagline:          'Data Scientist'
 description:      'MSCS student at Rutgers, Data Scientist'
-url:              https://xitizzz.github.io/typo
-baseurl:          /
+url:              https://xitizzz.github.io
+baseurl:          /typo
 
 email: kshitij.shah.cs@gmail.com
 github_username:  xitizzz
