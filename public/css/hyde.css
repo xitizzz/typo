@@ -248,11 +248,3 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-
-/* Icons */
-.icons-home{text-align:center;}
-.icons-home a{display:inline-block;padding:.938rem;margin:.125rem;border-radius:50%;border:.125rem solid #fff;line-height:0;transition:all .7s;}
-.icons-home a .icon{fill:#fff;width:18px;height:18px;}
-@media only screen and (min-width:37.5rem){.icons-home a .icon{width:30px;height:30px}}
-.icons-home a:hover{background:#fff;}
-.icons-home a:hover .icon{fill:#000}
