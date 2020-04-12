@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Typo Project'
 tagline:          'Data Scientist'
 description:      'MSCS student at Rutgers, Data Scientist'
-url:              https://xitizzz.github.io
-baseurl:          /typo
+url:              https://xitizzz.github.io/typo
+baseurl:          /
 
 author:
   name:           'Kshitij '
