@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            'Typo Project'
 tagline:          'Data Scientist'
-description:      'MSCS student at Rutgers, Data Scientist'
-url:              https://xitizzz.github.io/typo
+description:      'Typographical Error Generation using Real-World Statistics'
+url:              https://typo.kshitjshah.net
 baseurl:          /
 
 author:
-  name:           'Kshitij '
-  url:            https://twitter.com/xitizzz
+  name:           'Kshitij Shah'
+  url:            https://kshitijshah.net
 
 paginate:         5
 
