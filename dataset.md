@@ -26,7 +26,7 @@ Each directory contains following contents
 All the files are in parallel format.
 The same dataset is also available in CSV format.
 
-*Links to original datasets* 
-[Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) 
-[Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) 
+*Links to original datasets*. 
+[Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews). 
+[Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/). 
 
