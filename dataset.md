@@ -6,7 +6,7 @@ title: Datasets
 ### Download
 
 [Typo Dataset (Parallel Format)](https://1drv.ms/u/s!AAU3jG1nh6NXlgY)  
-[Typo Dataset (CSV with Metadata)](https://1drv.ms/u/s!AAU3jG1nh6NXlgY)
+[Typo Dataset (CSV with Metadata)](https://1drv.ms/u/s!AAU3jG1nh6NXlgc)
 
 ### About
 This resource contains two different datasets with three levels of error generation for each. The two datasets are Amazon Fine Food Review and Large Movie Review datasets. The original datasets are cleaned for typographical errors before introducing artificial errors.
