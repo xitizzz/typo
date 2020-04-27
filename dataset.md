@@ -13,8 +13,8 @@ This resource contains two different datasets with three levels of error generat
 
 Here is the structure of the resource
 
-  1. Two datasets amazon and imdb
-  2. For each dataset, three subdirectories for 3 level of error generation. This levels are low, medium and high which corresponds to 3.75%, 7.5% and 15% error rate by character
+  1. Two datasets amazon and imdb. 
+  2. For each dataset, three subdirectories for 3 level of error generation. This levels are low, medium and high which corresponds to 3.75%, 7.5% and 15% error rate by character. 
   3. Each error level contains subdirectories for train and test sets. Each subdirectory contains. 
     3.1. clean.txt contains the clean text without errors.
     3.2. corrupt.txt contains text with error induced by our algorithm.
