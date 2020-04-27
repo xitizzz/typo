@@ -23,7 +23,8 @@ Here is the structure of the resource
     d. corrected_v2.txt contains variant 2 of text corrected with Enchant spell check. Variant 2 is correction by top suggestion which is not equal to actual word.
 
 All the files are in parallel format.
-The same dataset is also available in CSV format.
+
+The same dataset is also available in CSV format. The CSV dataset contains the similar structure, with parallel files being the columns with same name in a CSV file. It also contains metadata like word count and out-of-vocabulary words.
 
 *Links to original datasets*: 
 [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews), 
