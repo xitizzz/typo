@@ -20,8 +20,11 @@ Here is the structure of the resource
   3. Each error level contains subdirectories for train and test sets
   Each subdirectory contains
     a. clean.txt contains the clean text without errors.
+    
     b. corrupt.txt contains text with error induced by our algorithm.
+    
     c. corrected_v1.txt contains variant 1 of text corrected with Enchant spell check. Variant 1 is correction by top suggestion.
+    
     d. corrected_v2.txt contains variant 2 of text corrected with Enchant spell check. Variant 2 is correction by top suggestion which is not equal to actual word.
     
 
