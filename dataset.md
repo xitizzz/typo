@@ -17,8 +17,7 @@ Here is the structure of the resource
   
   2. For each dataset, three subdirectories for 3 level of error generation. This levels are low, medium and high which corresponds to 3.75%, 7.5% and 15% error rate by character
   
-  3. Each error level contains subdirectories for train and test sets
-  Each subdirectory contains
+  3. Each error level contains subdirectories for train and test sets. Each subdirectory contains
     3.1. clean.txt contains the clean text without errors.
     3.2. corrupt.txt contains text with error induced by our algorithm.
     3.3. corrected_v1.txt contains variant 1 of text corrected with Enchant spell check. Variant 1 is correction by top suggestion.
