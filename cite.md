@@ -3,7 +3,7 @@ layout: page
 title: Citation
 ---
 
-[BibTex](http://gerard.demelo.org/papers/typographical-error-correction.bib)
+[BibTeX](http://gerard.demelo.org/papers/typographical-error-correction.bib)
 
 ```
 Kshitij Shah, Gerard de Melo.  
