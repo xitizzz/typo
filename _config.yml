@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Typo Project'
+title:            'Context-Aware Typographical Error Correction'
 tagline:          'Data Scientist'
-description:      'Typographical Error Generation using Real-World Statistics'
+description:      'via Training Data Augmentation'
 url:              https://typo.kshitjshah.net
 baseurl:          /
 
