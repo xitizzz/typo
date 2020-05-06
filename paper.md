@@ -3,4 +3,4 @@ layout: page
 title: Paper
 ---
 
-COMING SOON
+Get the full paper from [here](https://arxiv.org/abs/2005.01158)
