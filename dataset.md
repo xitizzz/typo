@@ -5,8 +5,8 @@ title: Datasets
 
 ### Download
 
-[Typo Dataset (Parallel Format)](datasets\TypoDatasetParallel.zip)  
-[Typo Dataset (CSV with Metadata)](datasets\TypoDatasetCSV.zip)
+[Typo Dataset (Parallel Format)](https://github.com/xitizzz/typo/raw/master/datasets/TypoDatasetParallel.zip?download=)  
+[Typo Dataset (CSV with Metadata)](https://github.com/xitizzz/typo/raw/master/datasets/TypoDatasetCSV.zip?download=)
 
 ### About
 This resource contains two different datasets with three levels of error generation for each. The two datasets are Amazon Fine Food Review and Large Movie Review datasets. The original datasets are cleaned for typographical errors before introducing artificial errors.
